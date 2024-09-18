@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - titan for lab",
+			"uri": "ssh://titan_for_lab/"
+		}
+	]
+}
